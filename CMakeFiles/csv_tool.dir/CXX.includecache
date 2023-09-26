@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/reg/projects/cpp/csv/csv_tool.h
+iostream
+-
+string
+-
+type_traits
+-
+functional
+-
+math.h
+/home/reg/projects/cpp/csv/math.h
+stdlib.h
+/home/reg/projects/cpp/csv/stdlib.h
+map
+-
+
+/home/reg/projects/cpp/csv/main.cpp
+iostream
+-
+string
+-
+type_traits
+-
+functional
+-
+math.h
+/home/reg/projects/cpp/csv/math.h
+stdlib.h
+/home/reg/projects/cpp/csv/stdlib.h
+map
+-
+csv_tool.h
+/home/reg/projects/cpp/csv/csv_tool.h
+

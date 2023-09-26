@@ -1,0 +1,3 @@
+/home/reg/projects/cpp/csv/CMakeFiles/rebuild_cache.dir
+/home/reg/projects/cpp/csv/CMakeFiles/edit_cache.dir
+/home/reg/projects/cpp/csv/CMakeFiles/csv_tool.dir
